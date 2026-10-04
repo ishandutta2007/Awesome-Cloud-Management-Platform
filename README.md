@@ -70,11 +70,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-Sorted by star count (descending). Star badge links to each repo's stargazers page.
+Sorted by Stars_Count (descending). Stars_Badge links to each repo's stargazers page.
 
 
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[Apache CloudStack](https://github.com/apache/cloudstack)** — **High-availability, scalable IaaS cloud computing platform** for public and private clouds. NFV orchestration, multi-hypervisor (KVM, VMware, XenServer), multi-tenancy, self-service portals. **Recommended as lower-complexity alternative to OpenStack** for service providers . Apache-2.0. | [![Stars](https://img.shields.io/github/stars/apache/cloudstack?style=social&color=white)](https://github.com/apache/cloudstack/stargazers) | ~1,800 |
 | **[OpenNebula](https://github.com/OpenNebula/one)** — **Open-source cloud and virtualization management platform** unifying KVM VMs and Kubernetes clusters. **Lightweight, simple administration** for private and hybrid clouds. Vendor freedom, no lock-in . Apache-2.0. | [![Stars](https://img.shields.io/github/stars/OpenNebula/one?style=social&color=white)](https://github.com/OpenNebula/one/stargazers) | ~1,200 |
