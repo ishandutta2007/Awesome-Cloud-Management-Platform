@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cloud Management Platform Banner" width="100%" />
+</p>
+
 # Awesome-Cloud-Management-Platform
 
-
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -33,6 +39,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#-disclaimer)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 
 
 ## ☁️ SaaS/Hosted Platforms
@@ -128,3 +136,18 @@ Star the repo if you find it useful!
 **Made for cloud architects, platform engineers, DevOps teams, and FinOps practitioners.**
 
 Let's make cloud management more open, transparent, and vendor-neutral.
+
+
+## 💖 Support & Community
+
+If you find this project helpful, please consider showing your support:
+
+- ⭐️ **Star** this repository to help others discover it.
+- 🔄 **Share** it with your fellow cloud architects, platform engineers, and DevOps teams.
+- 💖 **Sponsor** or buy me a coffee via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Management-Platform&type=date&legend=top-left)
+
